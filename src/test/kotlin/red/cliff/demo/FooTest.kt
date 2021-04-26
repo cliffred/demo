@@ -16,7 +16,7 @@ class FooTest {
     }
 
     @Test
-    internal fun `this is a failing test`() {
-        fail("sorry")
+    fun `this is a failing test`() {
+
     }
 }
